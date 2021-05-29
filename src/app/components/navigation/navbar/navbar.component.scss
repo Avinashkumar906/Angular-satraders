@@ -1,0 +1,34 @@
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  background-color: lightslategray;
+}
+
+.navbar .navbar-nav {
+  margin: 0 auto;
+}
+.navbar .nav-item a {
+  color: #fff;
+}
+
+.navbar .nav-item a:hover {
+  background-color: turquoise;
+  border-radius: 7px;
+  transition: 0.4s ease-in-out;
+}
+
+.navbar .h1 {
+  font-size: 1em;
+  margin: 0;
+  color: #fff;
+  text-decoration: none;
+}
+
+.buttons {
+  background-color: lightslategray;
+}
+
+.btn {
+  color: white;
+}
